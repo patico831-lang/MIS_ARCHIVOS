@@ -1,0 +1,49 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="*-UB+IiA{As]=1kNy86N" x="0" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="i:X{XtOiBemx94QYYznT"><field name="i">IconNames.Heart</field><next><block type="device_show_leds" id="LS,Jo2^D{~y0nXCG=Bx*"><field name="LEDS">`
+        # # # # # 
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        # # # . .
+        `</field><next><block type="device_show_leds" id="hZ7_;e8l+$4Ufhs/yb(O"><field name="LEDS">`
+        # # # # # 
+        # . . . . 
+        # # # # . 
+        # . . . . 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="OQDf5gf%-3iVA3Q]ud{I"><field name="LEDS">`
+        # . . # . 
+        # . # . . 
+        # # # . . 
+        # . . # . 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="J;?YD%nsfdkV?zN3?;?p"><field name="LEDS">`
+        # # # # # 
+        # . . . # 
+        # # # # # 
+        # . . . # 
+        # . . . #
+        `</field><next><block type="basic_show_icon" id="(qaUd7.r0f7EMJh|b!Aq"><field name="i">IconNames.Happy</field></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_forever" id="7xWY~U;tN?3ClID;DTLS" x="349" y="2"><statement name="HANDLER"><block type="device_show_leds" id="D?tjbGY%0o!L)2O}N!f/"><field name="LEDS">`
+        # # # # # 
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        # # # . .
+        `</field><next><block type="device_show_leds" id="fB3WBL_shB4ZY_uK[U+4"><field name="LEDS">`
+        # # # # # 
+        # . . . . 
+        # # # # . 
+        # . . . . 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="xiPRQ:Vb|7,gqVZIPBSD"><field name="LEDS">`
+        # . . # . 
+        # . # . . 
+        # # # . . 
+        # . . # . 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="+a(}$jZ0jY2lUE5dNnSz"><field name="LEDS">`
+        # # # # # 
+        # . . . # 
+        # # # # # 
+        # . . . # 
+        # . . . #
+        `</field></block></next></block></next></block></next></block></statement></block></xml>
